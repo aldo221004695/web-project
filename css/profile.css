@@ -1,0 +1,37 @@
+form{
+    /* background-color:antiquewhite; */
+    width: 60%;
+}
+form input{
+    width: 100%;
+    font-size: 1rem;
+    /* border-radius: 10px; */
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    border-bottom: 2px solid rgb(30, 30, 255)
+}
+form input[type="submit"]{
+    font-size: 12px;
+    color: #020e3b;
+    padding: 10px 20px;
+    background-color: rgb(30, 30, 255);
+    border-radius: 10px;
+    color: aliceblue;
+    cursor: pointer;
+    border: none;
+    transition: ease-in-out 0.5s;
+}
+label{
+    font-weight: 800;
+    font-size: 12px;
+}
+.selecter{
+    width: 100%;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    padding: 5px;
+    border-bottom: 2px solid rgb(30, 30, 255);
+
+}

@@ -1,0 +1,18 @@
+.BookForm {
+  background-color: beige;
+  width: 200%;
+  border-radius: 10px;
+  padding: 2rem;
+}
+.BookForm input {
+  width: 100%;
+  border: none;
+  outline: none;
+  padding: 10px;
+  border-radius: 10px;
+}
+.submit {
+  background-color: rgb(30, 30, 255);
+  color: white;
+  font-weight: 500;
+}
